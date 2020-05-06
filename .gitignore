@@ -1,2 +1,7 @@
-# Arquivos Python
-*.py
+# Não carregar os dados de login para o github
+login.py
+
+# Não carregar virtualenv
+.venv/
+.vscode/
+.__pycache__/
