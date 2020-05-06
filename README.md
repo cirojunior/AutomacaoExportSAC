@@ -11,7 +11,8 @@ Vamos criar um robo que automaticamente acessa uma análise criada no SAP Analyt
 - Se você tem 200 vendedores, quando termina de gerar os arquivos do dia está na hora de ir embora.
 
 Nesse cenário a empresa está gastando um dinheiro desnecessário e você que está fazendo essa operação está se impedindo de crescer, de fazer algo relevante, de ganhar um aumento ou uma visibilidade dentro da empresa.
-Será o cara que faz manual algo que é automatizável.
+
+** Será o cara que faz manual algo que é automatizável. **
 
 Aqui quero mostrar como fazer essa automatização e ir para outro nível.
 
