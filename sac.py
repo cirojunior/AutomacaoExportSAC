@@ -1,5 +1,6 @@
 '''
 Utilizando o Python para automatizar um export de relatório do SAP Analytics Cloud.
+É necessário instalar selenium, driver do navegador e é recomendado usar virtualenv
 '''
 import login
 import time
