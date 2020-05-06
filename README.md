@@ -40,16 +40,18 @@ O que vamos precisar?
     - Para instalar no windows, [clique aqui e veja como](https://python.org.br/instalacao-windows/)
 2. Ambiente virtual.
     - Instalar, [clique e veja como](https://virtualenv.pypa.io/en/latest/installation.html#via-pip)
-    - Para criar a máquina virtual [virtualenv nome_da_virtualenv]
-    - Para acessar [source nome_da_virtualenv/bin/activate]
+    - Para criar a máquina virtual "virtualenv nome_da_virtualenv"
+    - Para acessar "source nome_da_virtualenv/bin/activate"
 3. Pacotes do Python.
     - pip install selenium
     - Os outros vem com a instalação padrão do python, não precisa adicionar.
 4. Driver do navegador.
-    - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-    - [Firefox](https://github.com/mozilla/geckodriver/releases)
-    - [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
-    - [Safari](https://webkit.org/blog/6900/webdriver-support-in-safari-10/)
+    - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) - https://sites.google.com/a/chromium.org/chromedriver/downloads
+    - [Firefox](https://github.com/mozilla/geckodriver/releases) - https://github.com/mozilla/geckodriver/releases
+    - [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+    - [Safari](https://webkit.org/blog/6900/webdriver-support-in-safari-10/) - https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 
 Todo ambiente pronto agora é mão no código.
+
+Calma que vamos analisar linha por linha calmamente.
 
