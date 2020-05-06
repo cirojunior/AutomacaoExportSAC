@@ -24,4 +24,32 @@ Esse exemplo de automação pode e deve ser aplicado em vários outros trabalhos
 
 Vamos estudar jundo o código que foi criado.
 
-[Acesse o arquivo sac.py para entender melhor](sac.py)
+[Acesse o arquivo sac.py para ter acesso ao código fonte](sac.py)
+
+O que vamos precisar?
+
+1. Python.
+2. Ambiente virtual - Virtualenv "opcional" 
+3. Pacotes do python "time, os e selenium"
+4. Driver do navegador preferido.
+
+**Detalhando os itens acima.**
+
+1. Python.
+    - Vem instalado em todos sistemas operacionais, exceto o windows.
+    - Para instalar no windows, [clique aqui e veja como](https://python.org.br/instalacao-windows/)
+2. Ambiente virtual.
+    - Instalar, [clique e veja como](https://virtualenv.pypa.io/en/latest/installation.html#via-pip)
+    - Para criar a máquina virtual [virtualenv nome_da_virtualenv]
+    - Para acessar [source nome_da_virtualenv/bin/activate]
+3. Pacotes do Python.
+    - pip install selenium
+    - Os outros vem com a instalação padrão do python, não precisa adicionar.
+4. Driver do navegador.
+    - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+    - [Firefox](https://github.com/mozilla/geckodriver/releases)
+    - [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+    - [Safari](https://webkit.org/blog/6900/webdriver-support-in-safari-10/)
+
+Todo ambiente pronto agora é mão no código.
+
