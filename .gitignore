@@ -2,6 +2,6 @@
 login.py
 
 # Não carregar virtualenv
-.venv/
-.vscode/
-.__pycache__/
+venv/
+vscode/
+__pycache__/
