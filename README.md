@@ -55,5 +55,5 @@ Todo ambiente pronto agora é mão no código.
 
 Calma que vamos analisar linha por linha calmamente.
 
-[Video Explicação](https://youtu.be/NTTcGfEN6As)
+[![Watch the video](https://i9.ytimg.com/vi/NTTcGfEN6As/mqdefault.jpg?time=1588969817719&sqp=CMiC1_UF&rs=AOn4CLDoXIfLRteHi7RRtmw4_Q3Z41uZ8Q)](https://youtu.be/NTTcGfEN6As)
 
