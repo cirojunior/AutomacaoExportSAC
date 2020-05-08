@@ -43,7 +43,7 @@ O que vamos precisar?
     - Para criar a máquina virtual "virtualenv nome_da_virtualenv"
     - Para acessar "source nome_da_virtualenv/bin/activate"
 3. Pacotes do Python.
-    - pip install selenium
+    - pip install [selenium](https://www.selenium.dev/documentation/en/)
     - Os outros vem com a instalação padrão do python, não precisa adicionar.
 4. Driver do navegador.
     - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) - https://sites.google.com/a/chromium.org/chromedriver/downloads
